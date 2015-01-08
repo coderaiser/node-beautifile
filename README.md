@@ -13,7 +13,7 @@ npm i beautifile --save
 ```js
 var beautifile  = require('beautifile');
 
-beautife('ugli.js', function(error, data) {
+beautife('ugly.js', function(error, data) {
     if (error)
         console.error(error.message);
     else
