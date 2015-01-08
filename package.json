@@ -1,0 +1,31 @@
+{
+  "name": "beautifile",
+  "version": "1.0.0",
+  "description": "beautify js, html and css",
+  "main": "lib/beautifile.js",
+  "dependencies": {
+    "execon": "~1.0.1",
+    "js-beautify": "~1.5.4",
+    "tryrequire": "~1.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coderaiser/node-beautifile.git"
+  },
+  "keywords": [
+    "beautify",
+    "js",
+    "html",
+    "css"
+  ],
+  "author": "coderaiser <mnemonic.enemy@gmail.com> (http://coderaiser.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coderaiser/node-beautifile/issues"
+  },
+  "homepage": "https://github.com/coderaiser/node-beautifile"
+}
