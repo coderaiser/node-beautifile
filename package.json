@@ -4,7 +4,7 @@
   "description": "beautify js, html and css",
   "main": "lib/beautifile.js",
   "dependencies": {
-    "execon": "~1.0.1",
+    "execon": "~1.1.0",
     "js-beautify": "~1.5.4",
     "tryrequire": "~1.1.5"
   },
