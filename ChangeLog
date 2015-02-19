@@ -1,3 +1,9 @@
+2015.02.19, v1.0.4
+
+fix:
+- (beautifile) rename file before read
+
+
 2015.02.19, v1.0.3
 
 feature:
