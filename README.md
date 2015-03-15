@@ -8,6 +8,12 @@ Beautify js, html and css.
 npm i beautifile --save
 ```
 
+## Options
+
+Options of `beautifile` can be find in [json/beautify.json](json/beautify.json "beautify.json"),
+and could be overriden by `~/.beautify.json`.
+
+
 ## How to use?
 
 ```js
