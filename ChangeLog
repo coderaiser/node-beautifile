@@ -1,3 +1,9 @@
+2015.06.22, v1.0.7
+
+feature:
+- (package) tryrequire -> readjson
+
+
 2015.06.03, v1.0.6
 
 feature:
