@@ -5,6 +5,7 @@
   "main": "lib/beautifile.js",
   "dependencies": {
     "js-beautify": "~1.5.4",
+    "os-homedir": "~1.0.0",
     "readjson": "~1.1.0",
     "try-catch": "~1.0.0"
   },
