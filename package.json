@@ -4,7 +4,7 @@
   "description": "beautify js, html and css",
   "main": "lib/beautifile.js",
   "dependencies": {
-    "js-beautify": "~1.6.2",
+    "js-beautify": "^1.7.0",
     "os-homedir": "~1.0.0",
     "readjson": "~1.1.0",
     "try-catch": "~1.0.0"
