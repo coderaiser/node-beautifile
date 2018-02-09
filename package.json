@@ -5,8 +5,7 @@
   "main": "lib/beautifile.js",
   "dependencies": {
     "js-beautify": "^1.7.5",
-    "os-homedir": "~1.0.0",
-    "readjson": "~1.1.0",
+    "readjson": "^1.1.0",
     "try-catch": "^2.0.0"
   },
   "devDependencies": {},
@@ -16,6 +15,9 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/coderaiser/node-beautifile.git"
+  },
+  "engines": {
+    "node": ">=4.0.0"
   },
   "keywords": [
     "beautify",
