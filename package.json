@@ -8,9 +8,11 @@
     "readjson": "^1.1.0",
     "try-catch": "^2.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^4.17.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "eslint lib"
   },
   "repository": {
     "type": "git",
