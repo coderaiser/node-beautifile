@@ -1,6 +1,6 @@
 {
   "name": "beautifile",
-  "version": "1.0.12",
+  "version": "2.0.0",
   "description": "beautify js, html and css",
   "main": "lib/beautifile.js",
   "dependencies": {
