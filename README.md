@@ -2,11 +2,11 @@
 
 [NPMIMGURL]:                https://img.shields.io/npm/v/beautifile.svg?style=flat
 [BuildStatusIMGURL]:        https://img.shields.io/travis/coderaiser/node-beautifile/master.svg?style=flat
-[DependencyStatusIMGURL]:   https://img.shields.io/gemnasium/coderaiser/node-beautifile.svg?style=flat
+[DependencyStatusIMGURL]:   https://img.shields.io/david/coderaiser/node-beautifile.svg?style=flat
 [LicenseIMGURL]:            https://img.shields.io/badge/license-MIT-317BF9.svg?style=flat
 [NPMURL]:                   https://npmjs.org/package/beautifile "npm"
 [BuildStatusURL]:           https://travis-ci.org/coderaiser/node-beautifile  "Build Status"
-[DependencyStatusURL]:      https://gemnasium.com/coderaiser/node-beautifile "Dependency Status"
+[DependencyStatusURL]:      https://david-dm.org/coderaiser/node-beautifile "Dependency Status"
 [LicenseURL]:               https://tldrlegal.com/license/mit-license "MIT License"
 
 Beautify js, html and css.
